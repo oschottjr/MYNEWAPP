@@ -1,0 +1,15 @@
+{
+	"appname": "MYNEWAPP",
+	"scope": "FullAccess",
+	"clientid": "F78672F7-50C4-46AC-80F6-EFAABB96668A",
+	"buyerid": "buyer123",
+	"catalogid": "buyer123",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
